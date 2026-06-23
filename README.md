@@ -26,29 +26,18 @@ Building scalable APIs, payment systems, and backend infrastructure.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Backend Software Engineer with **3+ years of experience** designing and building scalable backend systems, payment infrastructure, and production-grade REST APIs.
+Backend Software Engineer with **3+ years of experience** building scalable backend applications, payment systems, and database-driven platforms.
 
-### What I Do
+My experience includes developing and maintaining production-grade services across:
 
-- 🔹 Design and build scalable backend services
-- 🔹 Develop payment systems using Stripe
-- 🔹 Design database-driven applications
-- 🔹 Build secure authentication and authorization systems
-- 🔹 Optimize APIs and database performance
-- 🔹 Deploy and maintain cloud-based applications
+- 💳 Payment Infrastructure
+- 🏥 Healthcare Platforms
+- 🛒 E-Commerce Systems
+- 📄 Enterprise Business Applications
 
-### Currently Working With
-
-- Node.js
-- Express.js
-- PostgreSQL
-- MongoDB
-- Redis
-- Docker
-- AWS
-- Linux
+I enjoy designing reliable APIs, optimizing databases, solving backend challenges, and building systems that scale.
 
 ---
 
@@ -56,92 +45,81 @@ Backend Software Engineer with **3+ years of experience** designing and building
 
 ### Backend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
-</p>
+| Technology | Experience |
+|------------|------------|
+| Node.js | Primary Backend Runtime |
+| Express.js | REST API Development |
+| Java | Backend Development |
+| Spring Boot | Backend Services |
+| REST APIs | API Design & Integration |
 
 ### Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
-</p>
+| Technology | Experience |
+|------------|------------|
+| MongoDB | Document Database |
+| PostgreSQL | Relational Database |
+| MySQL | SQL Development |
+| Redis | Caching & Session Management |
 
 ### DevOps & Cloud
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git" />
-</p>
+| Technology | Experience |
+|------------|------------|
+| Docker | Containerization |
+| AWS | Cloud Services |
+| Linux | Server Administration |
+| Nginx | Reverse Proxy & Deployment |
+| Git | Version Control |
 
 ### Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
-</p>
+| Tool |
+|------|
+| VS Code |
+| Postman |
+| Jira |
+| GitHub |
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=gauravvs2611&show_icons=true&theme=tokyonight&count_private=true"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravvs2611&layout=compact&theme=tokyonight"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gauravvs2611&theme=tokyonight"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gauravvs2611&theme=tokyo-night"
-  />
-</p>
-
----
-
-## 🎯 Current Focus
+## ⚡ Areas of Expertise
 
 - Backend Architecture
-- Payment Infrastructure
-- Distributed Systems
-- PostgreSQL Performance
-- API Design
+- REST API Development
+- Payment Processing
+- Stripe Integrations
+- Database Design
+- Authentication & Authorization
+- Microservices
+- Error Handling & Validation
+- Performance Optimization
 - Cloud Deployments
 - System Design
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
-- Advanced System Design
+Currently exploring and improving knowledge in:
+
 - Distributed Systems
-- Python Backend Development
+- Event-Driven Architecture
+- Advanced PostgreSQL
+- Scalable Backend Design
 - Cloud Infrastructure
-- Event-Driven Architectures
+- System Design Patterns
 
 ---
 
-## 🌐 Portfolio & Contact
+## 📈 GitHub Activity
 
-🌍 Portfolio: **https://gsbuilds.dev**
-
-💼 LinkedIn: **https://linkedin.com/in/gaurav-seedhar-255b4977**
-
-📧 Email: **gauravvs2611@gmail.com**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravvs2611&theme=tokyonight" />
+</p>
 
 ---
 
 <p align="center">
-  <i>
-    Building reliable systems one API at a time 🚀
-  </i>
+  <i>Building reliable backend systems, one API at a time 🚀</i>
 </p>
