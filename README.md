@@ -24,7 +24,7 @@ Building scalable APIs, payment systems, and backend infrastructure.
 
 ## 🚀 About Me
 
-Backend Developer with **2.5+ years of experience** building production-grade applications and APIs.
+Backend Developer with **3+ years of experience** building production-grade applications and APIs.
 
 - 🔧 Specializing in **Node.js**, **Express.js**, **MongoDB**, and **PostgreSQL**
 - 💳 Built **Stripe Connect wallet systems**, payouts, settlements, and payment flows
@@ -68,7 +68,7 @@ Backend Developer with **2.5+ years of experience** building production-grade ap
 ```javascript
 const gaurav = {
   role: "Backend Developer",
-  experience: "2.5+ Years",
+  experience: "3+ Years",
 
   languages: [
     "JavaScript",
