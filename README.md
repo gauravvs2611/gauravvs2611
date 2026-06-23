@@ -1,16 +1,224 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋 I'm Gaurav
+</h1>
 
-<!--
-**gauravvs2611/gauravvs2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Developer | Node.js • Python • Java
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable APIs, payment systems, and backend infrastructure.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://gsbuilds.dev">
+    <img src="https://img.shields.io/badge/Portfolio-gsbuilds.dev-39FF14?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/gauravvs2611">
+    <img src="https://img.shields.io/badge/LinkedIn-Gaurav-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gauravvs2611&label=Profile+Views&color=39FF14&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+Backend Developer with **2.5+ years of experience** building production-grade applications and APIs.
+
+- 🔧 Specializing in **Node.js**, **Express.js**, **MongoDB**, and **PostgreSQL**
+- 💳 Built **Stripe Connect wallet systems**, payouts, settlements, and payment flows
+- 🏥 Developed healthcare and business management platforms
+- ☁️ Experience with **AWS**, **Docker**, **Linux**, and cloud deployments
+- 📚 Currently exploring distributed systems, system design, and backend scalability
+- 💼 Open to Backend Developer opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java,spring" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 Campus Closet
+
+Marketplace platform for buying, selling, and renting clothes.
+
+**Tech Stack**
+- Node.js
+- Express.js
+- MongoDB
+- Stripe Connect
+
+**Highlights**
+- Wallet & payment infrastructure
+- Secure transaction flow
+- Ratings and reviews
+- Real-time notifications
+- Order management system
+
+---
+
+### 🏥 Careflow360
+
+Healthcare and hospital management platform.
+
+**Tech Stack**
+- Node.js
+- Express.js
+- PostgreSQL
+- Sequelize
+
+**Highlights**
+- Patient management
+- Appointment scheduling
+- Role-based access control
+- Facility management
+- Reporting and analytics
+
+---
+
+### 📄 Seal360
+
+Contract and invoice management platform.
+
+**Tech Stack**
+- Node.js
+- PostgreSQL
+- AWS
+
+**Highlights**
+- Contract workflows
+- Template generation
+- Document management
+- Secure file storage
+
+---
+
+## 🔥 What I Work With
+
+```javascript
+const gaurav = {
+  role: "Backend Developer",
+  experience: "2.5+ Years",
+
+  languages: [
+    "JavaScript",
+    "Python",
+    "Java"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "Django",
+    "FastAPI",
+    "Spring Boot"
+  ],
+
+  databases: [
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
+    "Redis"
+  ],
+
+  devops: [
+    "Docker",
+    "AWS",
+    "Linux",
+    "Nginx"
+  ],
+
+  interests: [
+    "System Design",
+    "Distributed Systems",
+    "Payment Infrastructure",
+    "Scalable APIs"
+  ]
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=gauravvs2611&show_icons=true&theme=tokyonight&count_private=true"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravvs2611&layout=compact&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gauravvs2611&theme=tokyonight"
+  />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Backend Architecture
+- System Design
+- Payment Infrastructure
+- Distributed Systems
+- PostgreSQL Optimization
+- Cloud Deployments
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://gsbuilds.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-39FF14?style=for-the-badge" />
+  </a>
+
+  <a href="https://linkedin.com/in/gauravvs2611">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>
+    Building reliable systems one API at a time 🚀
+  </i>
+</p>
