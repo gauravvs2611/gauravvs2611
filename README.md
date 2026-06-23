@@ -66,35 +66,6 @@ I enjoy designing reliable APIs, optimizing databases, solving backend challenge
 
 ---
 
-## ⚡ Areas of Expertise
-
-- Backend Architecture
-- REST API Development
-- Payment Processing
-- Stripe Integrations
-- Database Design
-- Authentication & Authorization
-- Microservices
-- Error Handling & Validation
-- Performance Optimization
-- Cloud Deployments
-- System Design
-
----
-
-## 🎯 Current Focus
-
-Currently exploring and improving knowledge in:
-
-- Distributed Systems
-- Event-Driven Architecture
-- Advanced PostgreSQL
-- Scalable Backend Design
-- Cloud Infrastructure
-- System Design Patterns
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
